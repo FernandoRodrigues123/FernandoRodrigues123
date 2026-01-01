@@ -4,7 +4,6 @@
 
 ___
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoRodrigues123&show_icons=true&theme=dracula)
 
 ## Tecnologias
 
