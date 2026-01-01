@@ -18,4 +18,9 @@ ___
 
 ___
 
-Atualmente estou estudando engenharia de software na Unopar, e aprendendo ainda mais estudando na Alura e buscando cada vez mais conhecimento, e treinando minhas habilidades para me torna mais capaz de lidar com os desafios de um desenvolvedor
+Sou universitario na Unifatecie, ultimo ano de engenharia de softwar
+tenho dominio da linguagem java e spring fremework, voltados para o ambiente web.
+Alem do mais tenho noção no desenvolvimento de paginas web com html,
+css e javaScript, e ainda utilizando ferraentas modernas como react.
+Criei alguns projetos que realizam toda o processo de armazenamento de informações 
+no banco de dados mysql.
